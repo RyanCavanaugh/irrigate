@@ -1,0 +1,29 @@
+{
+  "name": "irrigate",
+  "version": "0.1.0",
+  "description": "Identity and prototype-preserving graph and subgraph serializer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyanCavanaugh/irrigate.git"
+  },
+  "keywords": [
+    "serialization"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCavanaugh/irrigate/issues"
+  },
+  "homepage": "https://github.com/RyanCavanaugh/irrigate",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
