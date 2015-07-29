@@ -1,0 +1,7 @@
+{
+	"files": ["irrigate.ts"],
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"files": ["tests.ts", "typings/tsd.d.ts"],
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true
+	}
+}
